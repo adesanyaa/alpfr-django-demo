@@ -1,0 +1,1 @@
+# alpfr-django-demo
